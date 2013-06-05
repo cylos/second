@@ -1,3 +1,3 @@
 <?php
-	echo "Branch: master; commit: 2";
+	echo "Branch: master; commit: 3";
 ?>
